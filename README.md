@@ -7,5 +7,5 @@
   - pip install lxml
 3. terminal 直接运行
   - python -m baidy_input
-  - python -m sougou_inpu  
+  - python -m sougou_input  
 #### 
